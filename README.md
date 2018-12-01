@@ -8,6 +8,10 @@
 
 打包      npm run build
 
+添加了文件夹
+
+api   lib   mock   store   views
+
 > A Vue.js project
 
 ## Build Setup
