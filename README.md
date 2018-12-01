@@ -1,5 +1,13 @@
 # vueiviewdemo
 
+这个是使用  vue init webpack my-project  创建的空项目
+
+直接使用   npm install  /  cnpm install  
+
+本地运行   npm run dev
+
+打包      npm run build
+
 > A Vue.js project
 
 ## Build Setup
